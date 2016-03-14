@@ -1,0 +1,13 @@
+Script started on 2016年03月14日 (週一) 13時09分17秒
+]0;E64016423@2015cpp: ~[01;32mE64016423@2015cpp[00m:[01;34m~[00m$ whoami; pwd
+E64016423
+/home/E64016423
+]0;E64016423@2015cpp: ~[01;32mE64016423@2015cpp[00m:[01;34m~[00m$ git config -l
+user.name=ICHIA830506
+user.email=yohot506@gmail.com
+]0;E64016423@2015cpp: ~[01;32mE64016423@2015cpp[00m:[01;34m~[00m$ git cli[Kone https://git [Khub.com/U[KICHIA830506/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;E64016423@2015cpp: ~[01;32mE64016423@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月14日 (週一) 13時10分32秒
